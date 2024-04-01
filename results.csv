@@ -1,0 +1,7 @@
+"shutdown_schedule_tag","offset","start_time","stop_time"
+"compute-ue1-business-hour","US/Eastern","7","21"
+"compute-gwc-weekdays","CET","7","21"
+"compute-ue1-weekdays","US/Eastern","7","18"
+"compute-gwc-business-hour","CET","7","21"
+"compute-ue1-daily","US/Eastern","7","18"
+"compute-gwc-daily","CET","7","18"
