@@ -501,7 +501,7 @@ def stop_instance(instance, notification, compute_client):
 
 def main():
     config = oci.config.from_file()
-    compartment_id = "ocid1.tenancy.oc1..aaaaaaaacy3gqq5abmumsk5322h4mum3a7744awaqjzqmpd3rdzjvekdpeja"
+    compartment_id = ""
     schedule_tag = "shutdown_schedule_tag"
 
 
